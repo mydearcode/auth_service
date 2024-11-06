@@ -113,7 +113,7 @@ GEM
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
     json (2.7.6)
-    jwt (2.8.2)
+    jwt (2.9.3)
       base64
     language_server-protocol (3.17.0.3)
     logger (1.6.1)
@@ -304,7 +304,7 @@ DEPENDENCIES
   email_validator (~> 2.2.4)
   factory_bot_rails (~> 6.4.3)
   faker (~> 3.2.3)
-  jwt (~> 2.8.1)
+  jwt (~> 2.9.3)
   pg (~> 1.1)
   puma (>= 5.0)
   rack-attack
