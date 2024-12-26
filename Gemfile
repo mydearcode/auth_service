@@ -14,7 +14,7 @@ gem 'redis-rails'
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 
 
-gem "jwt", "~> 2.8.1"
+gem "jwt", "~> 2.10.0"
 gem "email_validator", "~> 2.2.4"
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
